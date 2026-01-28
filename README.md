@@ -118,19 +118,56 @@ Carbon-Emission-Prediction/
 
 
 ---
+---
 
 ## **▶ How to Run the Project**
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 
-##**🌟 Conclusion**
+--- 
+## **💻 Usage Example**
+
+1. Upload dataset or use default CSV
+2. Adjust sliders for Energy, Production, Fuel Efficiency, etc.
+3. Click **Predict** to see carbon emissions
+4. Download results if needed
+
+
+--- 
+## **🎓 Academic Use**
+
+* Suitable for Mini Project / Major Project
+* Covers ML + Data Visualization + Deployment
+* Ideal for viva and demonstrations
+
+---
+
+## **🧠 Interpretation & Insights**
+
+* Linear Regression shows near-perfect fit on small datasets
+* Random Forest captures real-world non-linear behavior
+* Sustainability measures significantly reduce emissions
+
+---
+
+## **🔮 Future Scope**
+
+* Integrate other ML models like XGBoost or LightGBM
+* Add country-specific emission benchmarks
+* Enable user authentication for multiple industry profiles
+* Deploy as a cloud app for global access
+
+---
+
+## **🌟 Conclusion**
 
 This project demonstrates how Machine Learning can support environmental sustainability by enabling industries to monitor and reduce carbon emissions effectively.
 
 
-👨‍🎓 Developed By
+## **👨‍🎓 Submitted By**
 
-[DARSANA.A]
+**DARSANA.A**
