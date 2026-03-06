@@ -1,3 +1,4 @@
+![Carbon Emission Prediction](Thumbnail.png)
 # **🌍 Carbon Emission Prediction – Industry (India)**
 
 ---
@@ -171,3 +172,4 @@ This project demonstrates how Machine Learning can support environmental sustain
 ## **👨‍🎓 Submitted By**
 
 **DARSANA.A**
+
